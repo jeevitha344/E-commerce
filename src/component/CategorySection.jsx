@@ -10,7 +10,7 @@ img:image.banner,
 text:"Women's collection"
     },
     {
-img:image.banner1,
+img:image.b17,
 text:"Kid's collection"
     },
 ]
